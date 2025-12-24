@@ -23,8 +23,8 @@
 ### 1. 필수 요구사항
 * Python 3.x
 * ```bash
-    pip install pylnk3
-    ```
+  pip install pylnk3
+  ```
 
 ### 2. 사용 단계
 1.  프로젝트 디렉토리에 정상적인 미끼 파일(예: `report.pdf`)을 준비합니다.
